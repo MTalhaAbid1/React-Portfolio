@@ -92,7 +92,7 @@ const Hero = () => {
                 Contact Me
               </a>
               <a
-                href="/TALHA ABID (1).pdf"
+                href="/Muhammad_Talha_Abid_Resume (3).pdf"
                 className="inline-flex items-center px-6 py-3 rounded-full bg-transparent border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 font-medium hover:border-gray-400 dark:hover:border-gray-400 hover:bg-gray-50 dark:hover:bg-transparent hover:text-gray-900 dark:hover:text-white transition-all duration-300 group hover:-translate-y-1"
               >
                 <Download size={18} className="mr-2 group-hover:-translate-y-1 transition-transform" />
